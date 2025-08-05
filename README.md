@@ -1,6 +1,6 @@
 # Proxy Checker
 
-Fast and efficient proxy checker with console menu interface. It's only pet projects, may be bugs etc.
+Fast and efficient proxy checker with console menu interface. It's only a pet project, may be bugs etc.
 
 ## Features
 
