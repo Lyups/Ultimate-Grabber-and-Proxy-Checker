@@ -61,7 +61,7 @@ temp_file = "temp_active_proxies.txt"
 # Test parameters
 test_url = "http://httpbin.org/ip"
 max_threads = 100  # Maximum number of threads
-request_timeout = 1 # Request timeout for speed
+request_timeout = 10 # Request timeout for speed
 socket_timeout = 1 # Fast socket check timeout
 batch_size = 50  # Batch size for saving
 
